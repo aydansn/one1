@@ -367,3 +367,202 @@ button{
     margin: 8px;
     padding: 0px;
 }
+
+#section8{
+    background-color:#f1ebeb;
+    margin: 60px 140px;
+    border-radius: 10px;
+    padding: 50px 50px;
+}
+.letter{
+    text-align: center;
+}
+.letter p{
+    color:#6c757d;
+    padding: 0px;
+}
+.letter h1{
+    color: black;
+    padding: 0px;
+}
+
+
+form{
+    text-align: center;
+    font-size: 30px;
+}
+
+.full-name input{
+   padding: 25px 130px;
+   margin: 10px;
+   text-align: left;
+   border-radius: 10px;
+   border: 1px solid rgb(192, 190, 190); 
+}
+.message input{
+    padding: 70px 130px;
+    margin: 17px;
+    text-align: left;
+    border-radius: 10px;
+    border: 1px solid rgb(192, 190, 190);   
+    color: white;
+}
+
+form button{
+    padding: 18px 180px;
+    border: none;
+    font-size: 20px;
+    background-color:rgb(54, 54, 238);
+}
+#section9{
+    margin: 50px 60px;
+}
+
+.all-div8{
+    display: flex;
+    justify-content: space-between;
+
+}
+.box08 p{
+    color: rgb(189, 185, 185);
+    margin: 0px;
+    padding: 0px;
+    font-size: 19px;
+}
+
+.box08 h2{
+    padding:  10px 0px;
+}
+
+.footer{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 0px;
+
+}
+.right-foot p{
+    color: white;
+    font-size: 18px;
+}
+.left-foot a{
+    color: white;
+  padding: 0px 10px;
+}
+.left-foot{
+    margin: 10px 20px;
+    padding: 8px;
+}
+
+/* .section10{
+    background-color:#f1ebeb;
+    margin: 0px;
+    padding: 0px;
+} */
+.boxs10{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.section10 h1{
+    color: black;
+
+}
+.section10 p{
+    color: black;
+    text-align: center;
+}
+.titleh1{
+    text-align: center;
+}
+.star{
+    display: flex;
+}
+.star h2{
+    padding: 0px 10px;
+}
+.box10 h1 p {
+    color:#f1ebeb;
+    padding: 0px;
+    margin: 0px;
+}
+
+.boxs10{
+    margin: 60px 110px;
+}
+.box10{
+    border: 1px solid gainsboro;
+    padding: 30px 40px;
+    border-radius: 10px;
+}
+.box10 button{
+    background-color:white;
+    color: blue;
+    padding: 13px 90px;
+    border: 1px solid blue;
+    font-size: 16px;
+    margin: 20px 0px;
+}
+.box10 button:hover{
+    background-color:blue;
+    color: white;
+}
+
+.box10 h1{
+    margin: 0px;
+    padding: 10px 0px;
+}
+.box10 h2{
+  font-size: 18px;
+}
+.box10 li{
+    padding: 10px 0px;
+}
+
+#section11{
+    text-align: center;
+    margin: 50px 0px;
+}
+#section11 h1{
+    color: black;
+}
+#section11 p{
+    color: rgb(165, 163, 163);
+}
+.accound{
+    display: flex;
+    justify-content: space-between;
+}
+.left11{
+    width: 65%;
+}
+.right11{
+    width: 35%;
+}
+.contactus{
+    background-color:#e2e7eb;
+    text-align: center;
+    flex-direction: column;
+    margin: 70px 100px 70px 100px;
+    padding: 60px 70px 60px 70px;
+    border-radius: 10px;     
+}
+.gmail{
+    flex-wrap: wrap;
+}
+.gmail strong{
+    padding: 10px 20px;
+}
+.contactus p{
+    margin: 0px;
+}
+.left11 h1{
+    text-align: left;
+    margin: 0px 10px 0px 70px;
+}
+.box011{
+    border: 1px solid rgb(195, 191, 191);
+    margin: 0px 10px 0px 70px;
+    padding: 17px 30px;
+    text-align: left;
+}
